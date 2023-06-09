@@ -5,4 +5,4 @@ A ideia inicial é criar algumas automatizações em processos logísticos e de 
 com uma base de dados pequena em Excel.<br/>
 <br/>
 Atualmente estou desenvolvendo um gerador de pedidos(ou ordem de fabricação) em Excel, que se encontra<br/>
-em estágio funcional porém básico, tendo por enquanto somente botões e a proteção de planilha configurada.
+em estágio funcional porém básico, tendo por enquanto somente botões e a proteção de planilha configurada(Planilha Supriauto.xlsm).
